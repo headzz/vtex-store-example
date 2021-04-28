@@ -1,0 +1,12 @@
+const SIZE_TEXT_SMALL = '1.2rem'
+const SIZE_TEXT_NORMAL = '1.6rem'
+
+const SIZE_TITLE_NORMAL = '3.2rem'
+const SIZE_TITLE_LARGE = '6.4rem'
+
+export default {
+  SIZE_TEXT_SMALL,
+  SIZE_TEXT_NORMAL,
+  SIZE_TITLE_LARGE,
+  SIZE_TITLE_NORMAL
+}

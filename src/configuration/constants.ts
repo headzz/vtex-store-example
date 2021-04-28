@@ -1,6 +1,0 @@
-export const BLACK = '#000000'
-export const WHITE = '#ffffff'
-export const GREY_LVL1 = '#F2F2F2'
-export const GREEN_JUSSI = '#03FFA5'
-export const DARK_GREY = '#5B5B5B'
-export const PINK_JUSSI = '#EE0E7D'
