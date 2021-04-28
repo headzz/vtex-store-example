@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render component that wraps Footer on page 1`] = `
+.c0 {
+  background-color: #000000;
+  padding: 2.4rem 0;
+  width: 100%;
+}
+
+<section
+  class="c0"
+/>
+`

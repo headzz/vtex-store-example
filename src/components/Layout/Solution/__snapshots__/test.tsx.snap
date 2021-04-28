@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[
+  `<Solution /> should render component that wraps Solution on page 1`
+] = `
+.c0 {
+  background-color: #ffffff;
+  padding: 5.6rem 0;
+  width: 100%;
+}
+
+<section
+  class="c0"
+/>
+`

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Contact /> should render component that wraps Contact on page 1`] = `
+.c0 {
+  background-color: #EE0E7D;
+  padding: 13.6rem 0;
+  width: 100%;
+}
+
+<section
+  class="c0"
+/>
+`

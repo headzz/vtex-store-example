@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[
+  `<Navigation /> should render component that wraps navigation on page 1`
+] = `
+.c0 {
+  height: 8rem;
+  background-color: #000000;
+  width: 100%;
+}
+
+<section
+  class="c0"
+/>
+`

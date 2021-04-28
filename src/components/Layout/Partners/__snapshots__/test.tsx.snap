@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[
+  `<Partner /> should render component that wraps partners section on page 1`
+] = `
+.c0 {
+  background-color: #F2F2F2;
+  padding: 2.4rem 0;
+  width: 100%;
+}
+
+<section
+  class="c0"
+/>
+`

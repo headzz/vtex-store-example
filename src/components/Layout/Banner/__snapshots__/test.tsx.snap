@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Banner /> should render component that wraps banner on page 1`] = `
+.c0 {
+  background-color: #03FFA5;
+  padding: 4rem 0;
+  width: 100%;
+}
+
+<section
+  class="c0"
+/>
+`

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[
+  `<Wrapper /> should render component that wraps everything on page 1`
+] = `
+.c0 {
+  height: 100%;
+  width: 100%;
+}
+
+<div
+  class="c0"
+/>
+`
