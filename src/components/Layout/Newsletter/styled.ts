@@ -1,8 +1,8 @@
-import { GREY_LVL1, WHITE } from 'configuration/constants'
+import { colors } from 'configuration'
 import styled from 'styled-components'
 
 export const NewsletterStyled = styled.section`
-  background: linear-gradient(90deg, ${WHITE} 50%, ${GREY_LVL1} 50%);
+  background-color: ${colors.BLACK};
   padding: 6.4rem 0;
   width: 100%;
 `

@@ -4,7 +4,7 @@ exports[
   `<WhoWeAre /> should render component that wraps WhoWeAre on page 1`
 ] = `
 .c0 {
-  background: linear-gradient(90deg,#ffffff 50%,#F2F2F2 50%);
+  background: linear-gradient( 90deg,#ffffff 50%,#F2F2F2 50% );
   padding: 6.4rem 0;
   width: 100%;
 }

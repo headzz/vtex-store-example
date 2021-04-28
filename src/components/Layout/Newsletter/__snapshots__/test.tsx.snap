@@ -4,7 +4,7 @@ exports[
   `<Newsletter /> should render component that wraps newsletter on page 1`
 ] = `
 .c0 {
-  background: linear-gradient(90deg,#ffffff 50%,#F2F2F2 50%);
+  background-color: #000000;
   padding: 6.4rem 0;
   width: 100%;
 }

@@ -1,8 +1,8 @@
-import { GREEN_JUSSI } from 'configuration/constants'
+import { colors } from 'configuration'
 import styled from 'styled-components'
 
 export const BannerStyled = styled.section`
-  background-color: ${GREEN_JUSSI};
+  background-color: ${colors.GREEN_JUSSI};
   padding: 4rem 0;
   width: 100%;
 `
