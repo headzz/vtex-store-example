@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[
+  `Text should render component that small text with no color defined 1`
+] = `
+.c0 {
+  color: #000000;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+<p
+  class="c0"
+  color="#000000"
+  title=""
+>
+  Teste
+</p>
+`
+
+exports[
+  `Text should render component that small text with no color defined 2`
+] = `
+.c0 {
+  color: #000000;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+<p
+  class="c0"
+  color="#000000"
+  title=""
+>
+  Teste
+</p>
+`
+
+exports[`Text should render component with bold text 1`] = `
+.c0 {
+  color: #000000;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+<p
+  class="c0"
+  color="#000000"
+  title=""
+>
+  Teste
+</p>
+`
+
+exports[`Text should render normal title 1`] = `
+.c0 {
+  color: #000000;
+  font-size: 6.4rem;
+  font-weight: 500;
+}
+
+<p
+  class="c0"
+  color="#000000"
+  title="normal"
+>
+  Teste
+</p>
+`
+
+exports[`Text should render small title 1`] = `
+.c0 {
+  color: #000000;
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+<p
+  class="c0"
+  color="#000000"
+  title="small"
+>
+  Teste
+</p>
+`
+
+exports[`Text should render text with green color 1`] = `
+.c0 {
+  color: #03FFA5;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+<p
+  class="c0"
+  color="#03FFA5"
+  title=""
+>
+  Teste
+</p>
+`
