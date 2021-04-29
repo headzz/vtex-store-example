@@ -4,8 +4,9 @@ exports[
   `<Navigation /> should render component that wraps navigation on page 1`
 ] = `
 .c0 {
+  background-color: #ffffff;
   height: 8rem;
-  background-color: #000000;
+  padding: 2rem 2.4rem;
   width: 100%;
 }
 
