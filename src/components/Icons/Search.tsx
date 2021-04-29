@@ -12,7 +12,7 @@ const Search = () => (
     src="/img/icon/search.svg"
     height={24}
     width={24}
-    alt="ícone busca status"
+    alt="ícone de pesquisa"
   />
 )
 
