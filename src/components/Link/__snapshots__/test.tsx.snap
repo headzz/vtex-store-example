@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link should render component link background color 1`] = `
+.c0 {
+  background-color: #03FFA5;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<a
+  class="c0"
+  href="localhost"
+>
+  Teste
+</a>
+`
+
+exports[`Link should render component link with border 1`] = `
+.c0 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<a
+  class="c0"
+  href="localhost"
+>
+  Teste
+</a>
+`
+
+exports[`Link should render component link with margin 1`] = `
+.c0 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 3.2rem;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+<a
+  class="c0"
+  href="localhost"
+>
+  Teste
+</a>
+`
+
+exports[`Link should render component with redirect link 1`] = `
+.c0 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+<a
+  class="c0"
+  href="localhost"
+>
+  Teste
+</a>
+`
