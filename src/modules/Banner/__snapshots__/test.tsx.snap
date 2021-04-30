@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner match snapshot 1`] = `
+.c1 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c0 {
+  background-color: #03FFA5;
+  padding: 4rem 0;
+  width: 100%;
+}
+
+.c0 #banner-image {
+  display: none;
+}
+
+.c6 {
+  background-color: #03FFA5;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 {
+  color: #ffffff;
+  font-size: 6.4rem;
+  font-weight: 500;
+}
+
+.c4 {
+  color: #000000;
+  font-size: 6.4rem;
+  font-weight: 500;
+}
+
+.c5 {
+  color: #000000;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 0 4rem;
+  position: relative;
+  width: 90%;
+}
+
+.c2 p:first-child {
+  left: 0.8rem;
+  position: absolute;
+  top: 0;
+}
+
+.c2 p:nth-child(-n + 2) {
+  font-size: 3.2rem;
+}
+
+.c2 p:nth-child(3) {
+  margin: 1.6rem 0 2.4rem 0;
+  width: 100%;
+}
+
+@media (min-width:768px) {
+  .c0 #banner-image {
+    display: block;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 {
+    padding: 0;
+    width: 44.8rem;
+  }
+
+  .c2 p:first-child {
+    left: -8rem;
+    top: 0;
+  }
+
+  .c2 p:nth-child(3) {
+    margin: 1.6rem 0 4.4rem 0;
+    line-height: 2.4rem;
+    width: 32.8rem;
+  }
+
+  .c2 p:nth-child(-n + 2) {
+    font-size: 6.4rem;
+  }
+
+  .c2 a {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+}
+
+<section
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <p
+        class="c3"
+        color="#ffffff"
+        title="normal"
+      >
+        //
+      </p>
+      <p
+        class="c4"
+        color="#000000"
+        title="normal"
+      >
+        CRIAMOS LOJAS QUE VENDEM MAIS.
+      </p>
+      <p
+        class="c5"
+        color="#000000"
+        title=""
+      >
+        A Jüssi é especialista na criação de lojas usando a plataforma VTEX. Precisa criar sua loja ou migrar de plataforma?
+      </p>
+      <a
+        class="c6"
+        href="https://jussi.com.br/services.html"
+      >
+        Veja nossas Soluções
+      </a>
+    </div>
+    <div
+      id="banner-image"
+    >
+      <div
+        style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+      >
+        <div
+          style="box-sizing: border-box; display: block; max-width: 100%;"
+        >
+          <img
+            alt=""
+            aria-hidden="true"
+            role="presentation"
+            src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDYwIiBoZWlnaHQ9IjQ4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+            style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+          />
+        </div>
+        <img
+          alt="banner"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`

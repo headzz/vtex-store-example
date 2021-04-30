@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact match snapshot 1`] = `
+.c0 {
+  background-color: #EE0E7D;
+  padding: 13.6rem 0;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c3 {
+  color: #ffffff;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.c4 {
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c5 {
+  color: #ffffff;
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+.c1 {
+  margin: 0 auto;
+}
+
+.c1 div {
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.c1 div p:first-child {
+  margin-bottom: 3.2rem;
+  text-align: center;
+}
+
+.c1 div p:nth-child(2) {
+  margin-bottom: 0.8rem;
+}
+
+@media (min-width:768px) {
+  .c1 div {
+    padding: 0;
+    width: 67.6rem;
+  }
+}
+
+<section
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <p
+        class="c3"
+        color="#ffffff"
+        title="small"
+      >
+        ESSA LOJA FOI CONSTRUÍDA USANDO UMA DAS NOSSAS SOLUÇÕES DA PLATAFORMA VTEX. TENHA A SUA.
+      </p>
+      <p
+        class="c4"
+        color="#ffffff"
+        title=""
+      >
+        Entre em contato
+      </p>
+      <p
+        class="c5"
+        color="#ffffff"
+        title="small"
+      >
+        comercial@jussi.com.br
+      </p>
+    </div>
+  </div>
+</section>
+`

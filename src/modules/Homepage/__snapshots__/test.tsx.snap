@@ -1,0 +1,1884 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage match snapshot 1`] = `
+.c16 {
+  background-color: #03FFA5;
+  padding: 4rem 0;
+  width: 100%;
+}
+
+.c16 #banner-image {
+  display: none;
+}
+
+.c44 {
+  background-color: #EE0E7D;
+  padding: 13.6rem 0;
+  width: 100%;
+}
+
+.c56 {
+  background-color: #000000;
+  padding: 2.4rem 0rem;
+  width: 100%;
+}
+
+.c1 {
+  background-color: #ffffff;
+  height: 8rem;
+  padding: 2rem 2.4rem;
+  width: 100%;
+}
+
+.c49 {
+  background-color: #000000;
+  padding: 13.6rem 0;
+  width: 100%;
+}
+
+.c23 {
+  background-color: #F2F2F2;
+  padding: 2.4rem 0;
+  width: 100%;
+}
+
+.c26 {
+  background-color: #ffffff;
+  padding: 5.6rem 0;
+  width: 100%;
+}
+
+.c39 {
+  background: 0;
+  background-color: #ffffff;
+  padding: 6.4rem 0;
+  width: 100%;
+}
+
+.c0 {
+  height: 100%;
+  width: 100%;
+}
+
+.c5 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+.c6 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 3.2rem;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+.c22 {
+  background-color: #03FFA5;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c38 {
+  background-color: #03FFA5;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c42 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c19 {
+  color: #ffffff;
+  font-size: 6.4rem;
+  font-weight: 500;
+}
+
+.c20 {
+  color: #000000;
+  font-size: 6.4rem;
+  font-weight: 500;
+}
+
+.c21 {
+  color: #000000;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c25 {
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c28 {
+  color: #03FFA5;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.c29 {
+  color: #000000;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.c34 {
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+.c35 {
+  color: #EE0E7D;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.c36 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.c46 {
+  color: #ffffff;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.c47 {
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c48 {
+  color: #ffffff;
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+.c55 {
+  color: #03FFA5;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c41 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-bottom: 1.6rem;
+  position: relative;
+  padding: 0 4rem;
+  width: 100%;
+}
+
+.c41 p {
+  margin-bottom: 2.4rem;
+}
+
+.c41 a {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c43 {
+  margin: 0 auto;
+}
+
+.c40 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c3 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c9 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c11 {
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c17 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c33 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 0 4rem;
+  position: relative;
+  width: 90%;
+}
+
+.c18 p:first-child {
+  left: 0.8rem;
+  position: absolute;
+  top: 0;
+}
+
+.c18 p:nth-child(-n + 2) {
+  font-size: 3.2rem;
+}
+
+.c18 p:nth-child(3) {
+  margin: 1.6rem 0 2.4rem 0;
+  width: 100%;
+}
+
+.c45 {
+  margin: 0 auto;
+}
+
+.c45 div {
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.c45 div p:first-child {
+  margin-bottom: 3.2rem;
+  text-align: center;
+}
+
+.c45 div p:nth-child(2) {
+  margin-bottom: 0.8rem;
+}
+
+.c57 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.c57 div:nth-child(2) {
+  width: 100%;
+}
+
+.c7 {
+  position: fixed;
+  top: 2.4rem;
+  right: 2.4rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  width: 3rem;
+  height: 3rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 2;
+}
+
+.c7:focus {
+  outline: none;
+}
+
+.c7 div {
+  width: 3rem;
+  height: 0.2rem;
+  background: #0d0c1d;
+  border-radius: 10px;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  position: relative;
+  -webkit-transform-origin: 1px;
+  -ms-transform-origin: 1px;
+  transform-origin: 1px;
+}
+
+.c7 div:first-child {
+  -webkit-transform: rotate(0);
+  -ms-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.c7 div:nth-child(2) {
+  opacity: 1;
+}
+
+.c7 div:nth-child(3) {
+  -webkit-transform: rotate(0);
+  -ms-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.c8 {
+  -webkit-animation: 0.4s ease-in-out 0.4s;
+  animation: 0.4s ease-in-out 0.4s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  border: 0;
+  background-color: #F2F2F2;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.c8:focus {
+  outline: none;
+}
+
+.c8 div {
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  margin-top: 6.4rem;
+}
+
+.c4 {
+  display: none;
+}
+
+.c15 {
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  outline: 0;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c54 {
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  outline: 0;
+  padding: 1.2rem 2rem;
+  width: 100%;
+}
+
+.c12 {
+  border-radius: 2.4rem;
+  position: relative;
+  height: 4rem;
+  width: 24rem;
+}
+
+.c13 {
+  border: 1px solid #F2F2F2;
+  border-radius: 2.4rem;
+  color: #EE0E7D;
+  font-size: 1.6rem;
+  padding: 0.8rem 4.8rem 0.8rem 1.6rem;
+  outline: 0;
+  width: 100%;
+}
+
+.c13::-webkit-input-placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c13::-moz-placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c13:-ms-input-placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c13::placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c14 {
+  padding-right: 1.6rem;
+  position: absolute;
+  right: 0;
+  top: 0.8rem;
+}
+
+.c10 {
+  display: none;
+}
+
+.c51 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+}
+
+.c51 p {
+  text-align: center;
+}
+
+.c51 p:first-child {
+  position: absolute;
+  left: -4.8rem;
+  top: 0;
+}
+
+.c51 p:nth-child(2) {
+  margin-bottom: 3.2rem;
+}
+
+.c53 {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px solid #03FFA5;
+  color: #ffffff;
+  font-family: 'Barlow';
+  outline: 0;
+  padding: 0 9rem 1.8rem 0;
+  width: 100%;
+}
+
+.c52 {
+  background-color: transparent;
+  position: relative;
+  width: 50rem;
+}
+
+.c52 button {
+  font-family: 'Barlow',sans-serif;
+  left: calc(100% - 50px);
+  position: absolute;
+  top: 0;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c50 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c50 div {
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.c50 div p:first-child {
+  margin-bottom: 3.2rem;
+  text-align: center;
+}
+
+.c24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c24 p:nth-child(2) {
+  display: none;
+}
+
+.c24 > div {
+  margin-bottom: 1.2rem;
+}
+
+.c24 p:first-child {
+  margin-bottom: 1.2rem;
+}
+
+.c31 {
+  border: 1px solid #F2F2F2;
+  padding: 1.6rem;
+  width: 24rem;
+}
+
+.c31 ul {
+  margin: 1.6rem;
+}
+
+.c31 a {
+  width: 100%;
+}
+
+.c31 p:nth-child(2) {
+  margin-bottom: 1.6rem;
+}
+
+.c32 {
+  background-color: #F2F2F2;
+  border-radius: 50%;
+  height: 10rem;
+  margin-bottom: 5.2rem;
+  width: 10rem;
+}
+
+.c37 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c37 a {
+  text-align: center;
+  width: 100%;
+}
+
+.c30 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c30 div {
+  margin-bottom: 1.6rem;
+}
+
+.c27 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 2rem;
+  margin-bottom: 2.4rem;
+}
+
+@media (min-width:768px) {
+  .c16 #banner-image {
+    display: block;
+  }
+}
+
+@media (min-width:768px) {
+  .c56 {
+    padding: 2.4rem 20.8rem;
+  }
+}
+
+@media (min-width:768px) {
+  .c26 {
+    padding: 5.6rem 20.8rem;
+  }
+}
+
+@media (min-width:1024px) {
+  .c39 {
+    background: linear-gradient( 90deg,#ffffff 50%,#F2F2F2 50% );
+  }
+}
+
+@media (min-width:1024px) {
+  .c41 {
+    -webkit-align-items: flex-start;
+    -webkit-box-align: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+    -webkit-box-pack: space-evenly;
+    -webkit-justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+    padding: 0;
+    width: 24.2rem;
+  }
+}
+
+@media (min-width:1024px) {
+  .c43 {
+    margin: 0;
+  }
+}
+
+@media (min-width:900px) {
+  .c40 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: space-evenly;
+    -webkit-justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+  }
+}
+
+@media (min-width:768px) {
+  .c18 {
+    padding: 0;
+    width: 44.8rem;
+  }
+
+  .c18 p:first-child {
+    left: -8rem;
+    top: 0;
+  }
+
+  .c18 p:nth-child(3) {
+    margin: 1.6rem 0 4.4rem 0;
+    line-height: 2.4rem;
+    width: 32.8rem;
+  }
+
+  .c18 p:nth-child(-n + 2) {
+    font-size: 6.4rem;
+  }
+
+  .c18 a {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+}
+
+@media (min-width:768px) {
+  .c45 div {
+    padding: 0;
+    width: 67.6rem;
+  }
+}
+
+@media (min-width:768px) {
+  .c57 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+
+  .c57 div:nth-child(2) {
+    width: 13rem;
+  }
+}
+
+@media (min-width:768px) {
+  .c7 {
+    display: none;
+  }
+}
+
+@media (min-width:768px) {
+  .c8 {
+    display: none;
+  }
+}
+
+@media (min-width:1024px) {
+  .c4 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+}
+
+@media (min-width:768px) {
+  .c10 {
+    display: block;
+    width: 100%;
+  }
+}
+
+@media (min-width:768px) {
+
+}
+
+@media (min-width:768px) {
+  .c50 div {
+    padding: 0;
+    width: 67.6rem;
+  }
+}
+
+@media (min-width:768px) {
+  .c24 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+
+  .c24 > div {
+    margin-bottom: 0;
+  }
+
+  .c24 p:first-child {
+    margin-bottom: 0;
+  }
+
+  .c24 p:nth-child(2) {
+    display: block;
+  }
+
+  .c24 #arrow-right {
+    display: block;
+  }
+
+  .c24 #arrow-down {
+    display: none;
+  }
+}
+
+@media (min-width:768px) {
+  .c30 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width:768px) {
+  .c27 {
+    padding-left: 0;
+  }
+}
+
+<div
+  class="c0"
+>
+  <section
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <div
+        class="c3"
+      >
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTg0IiBoZWlnaHQ9IjQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="Jüssi logo da empresa"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+        <nav
+          class="c4"
+        >
+          <a
+            class="c5"
+            href="https://www.google.com"
+          >
+            Nossas Soluções
+          </a>
+          <a
+            class="c6"
+            href="https://www.google.com"
+          >
+            Conheça a Jüssi
+          </a>
+        </nav>
+      </div>
+      <button
+        class="c7"
+      >
+        <div />
+        <div />
+        <div />
+      </button>
+      <div
+        class="c8"
+      >
+        <div
+          class="c9"
+        >
+          <a
+            class="c6"
+            href="https://jussi.com.br/services.html"
+          >
+            Nossas Soluções
+          </a>
+          <a
+            class="c6"
+            href="https://jussi.com.br/about.html"
+          >
+            Conheça a Jüssi
+          </a>
+          <a
+            class="c6"
+            href="/"
+          >
+            Login
+          </a>
+        </div>
+      </div>
+      <div
+        class="c10"
+      >
+        <div
+          class="c11"
+        >
+          <div
+            class="c12"
+          >
+            <input
+              class="c13"
+              placeholder="Buscar"
+              type="text"
+              value=""
+            />
+            <div
+              class="c14"
+            >
+              <button
+                class="c15"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+                    />
+                  </div>
+                  <img
+                    alt="ícone de pesquisa"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </button>
+            </div>
+          </div>
+          <a
+            class="c6"
+            href="https://www.google.com"
+          >
+            Login
+          </a>
+          <button
+            class="c15"
+          >
+            <div
+              style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            >
+              <div
+                style="box-sizing: border-box; display: block; max-width: 100%;"
+              >
+                <img
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                  style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+                />
+              </div>
+              <img
+                alt="ícone verificação de itens no carrinho"
+                decoding="async"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+              />
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c16"
+  >
+    <div
+      class="c17"
+    >
+      <div
+        class="c18"
+      >
+        <p
+          class="c19"
+          color="#ffffff"
+          title="normal"
+        >
+          //
+        </p>
+        <p
+          class="c20"
+          color="#000000"
+          title="normal"
+        >
+          CRIAMOS LOJAS QUE VENDEM MAIS.
+        </p>
+        <p
+          class="c21"
+          color="#000000"
+          title=""
+        >
+          A Jüssi é especialista na criação de lojas usando a plataforma VTEX. Precisa criar sua loja ou migrar de plataforma?
+        </p>
+        <a
+          class="c22"
+          href="https://jussi.com.br/services.html"
+        >
+          Veja nossas Soluções
+        </a>
+      </div>
+      <div
+        id="banner-image"
+      >
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDYwIiBoZWlnaHQ9IjQ4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="banner"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c23"
+  >
+    <div
+      class="c24"
+    >
+      <p
+        class="c25"
+        color=""
+        title=""
+      >
+        Nossas principais lojas VTEX
+      </p>
+      <p
+        class="c25"
+        color=""
+        title=""
+      >
+        →
+      </p>
+      <div>
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjI2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="logo da empresa brastemp"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </div>
+      <div>
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjI2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="logo da empresa compra certa"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </div>
+      <div>
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjI2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="logo da empresa consul"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </div>
+      <div>
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjI2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="logo da empresa the bar"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c26"
+  >
+    <div
+      class="c27"
+    >
+      <p
+        class="c28"
+        color="#03FFA5"
+        title="small"
+      >
+        //
+      </p>
+      <p
+        class="c29"
+        color="#000000"
+        title="small"
+      >
+        NOSSAS SOLUÇÕES
+      </p>
+    </div>
+    <div
+      class="c30"
+    >
+      <div
+        class="c31"
+      >
+        <div
+          class="c32"
+        >
+          <div
+            class="c33"
+          >
+            <p
+              class="c34"
+              color=""
+              title="small"
+            >
+              P1
+            </p>
+          </div>
+        </div>
+        <p
+          class="c25"
+          color=""
+          title=""
+        >
+          Nome do Produto 1
+        </p>
+        <p
+          class="c35"
+          color="#EE0E7D"
+          title=""
+        >
+          Descrição do Produto 1
+        </p>
+        <div>
+          <ul>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 1
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 2
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 3
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="c37"
+        >
+          <a
+            class="c38"
+            href="/"
+          >
+            Ver solução
+          </a>
+        </div>
+      </div>
+      <div
+        class="c31"
+      >
+        <div
+          class="c32"
+        >
+          <div
+            class="c33"
+          >
+            <p
+              class="c34"
+              color=""
+              title="small"
+            >
+              P1
+            </p>
+          </div>
+        </div>
+        <p
+          class="c25"
+          color=""
+          title=""
+        >
+          Nome do Produto 2
+        </p>
+        <p
+          class="c35"
+          color="#EE0E7D"
+          title=""
+        >
+          Descrição do Produto 2
+        </p>
+        <div>
+          <ul>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 1
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 2
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 3
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="c37"
+        >
+          <a
+            class="c38"
+            href="/"
+          >
+            Ver solução
+          </a>
+        </div>
+      </div>
+      <div
+        class="c31"
+      >
+        <div
+          class="c32"
+        >
+          <div
+            class="c33"
+          >
+            <p
+              class="c34"
+              color=""
+              title="small"
+            >
+              P1
+            </p>
+          </div>
+        </div>
+        <p
+          class="c25"
+          color=""
+          title=""
+        >
+          Nome do Produto 3
+        </p>
+        <p
+          class="c35"
+          color="#EE0E7D"
+          title=""
+        >
+          Descrição do Produto 3
+        </p>
+        <div>
+          <ul>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 1
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 2
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 3
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="c37"
+        >
+          <a
+            class="c38"
+            href="/"
+          >
+            Ver solução
+          </a>
+        </div>
+      </div>
+      <div
+        class="c31"
+      >
+        <div
+          class="c32"
+        >
+          <div
+            class="c33"
+          >
+            <p
+              class="c34"
+              color=""
+              title="small"
+            >
+              P1
+            </p>
+          </div>
+        </div>
+        <p
+          class="c25"
+          color=""
+          title=""
+        >
+          Nome do Produto 4
+        </p>
+        <p
+          class="c35"
+          color="#EE0E7D"
+          title=""
+        >
+          Descrição do Produto 4
+        </p>
+        <div>
+          <ul>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 1
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 2
+              </p>
+            </li>
+            <li>
+              <p
+                class="c36"
+                color=""
+                title=""
+              >
+                feature 3
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="c37"
+        >
+          <a
+            class="c38"
+            href="/"
+          >
+            Ver solução
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c39"
+  >
+    <div
+      class="c40"
+    >
+      <div
+        class="c41"
+      >
+        <p
+          class="c29"
+          color="#000000"
+          title="small"
+        >
+          OLÁ, SOMOS A JÜSSI
+        </p>
+        <p
+          class="c21"
+          color="#000000"
+          title=""
+        >
+          A Jüssi é uma agência integrante do grupo global WPP que vem há 10 anos consolidando o pensamento voltado para produtos e resolução de problemas. Nosso área dedicada exclusivamente para Produtos Digitais é organizada em 6 especialidades: Product Managamenet, User Experience Design, SEO, Tecnologia, Agile e User Behavior Analytics.
+        </p>
+        <a
+          class="c42"
+          href="https://jussi.com.br/about.html"
+        >
+          Conheça a Jüssi
+        </a>
+      </div>
+      <div
+        class="c43"
+      >
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjc2IiBoZWlnaHQ9IjUyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="banner"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c44"
+  >
+    <div
+      class="c45"
+    >
+      <div
+        class="c33"
+      >
+        <p
+          class="c46"
+          color="#ffffff"
+          title="small"
+        >
+          ESSA LOJA FOI CONSTRUÍDA USANDO UMA DAS NOSSAS SOLUÇÕES DA PLATAFORMA VTEX. TENHA A SUA.
+        </p>
+        <p
+          class="c47"
+          color="#ffffff"
+          title=""
+        >
+          Entre em contato
+        </p>
+        <p
+          class="c48"
+          color="#ffffff"
+          title="small"
+        >
+          comercial@jussi.com.br
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c49"
+  >
+    <div
+      class="c50"
+    >
+      <div
+        class="c51"
+      >
+        <p
+          class="c28"
+          color="#03FFA5"
+          title="small"
+        >
+          //
+        </p>
+        <p
+          class="c46"
+          color="#ffffff"
+          title="small"
+        >
+          RECEBA NOVIDADES DA NOSSA ÁREA DE PRODUTOS DIGITAIS.
+        </p>
+        <div
+          class="c52"
+        >
+          <input
+            class="c53"
+            type="text"
+          />
+          <button
+            class="c54"
+          >
+            <p
+              class="c55"
+              color="#03FFA5"
+              title=""
+            >
+              CADASTRAR
+            </p>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    class="c56"
+  >
+    <div
+      class="c57"
+    >
+      <a
+        class="c5"
+        href="/"
+      >
+        <div
+          style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="box-sizing: border-box; display: block; max-width: 100%;"
+          >
+            <img
+              alt=""
+              aria-hidden="true"
+              role="presentation"
+              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQyIiBoZWlnaHQ9IjI3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+              style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+            />
+          </div>
+          <img
+            alt="logo do grupo wpp"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </a>
+      <div
+        class="c17"
+      >
+        <a
+          class="c5"
+          href="/"
+        >
+          <div
+            style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 32px; height: 32px;"
+          >
+            <img
+              alt="rede social facebook"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+            />
+          </div>
+        </a>
+        <a
+          class="c5"
+          href="/"
+        >
+          <div
+            style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 32px; height: 32px;"
+          >
+            <img
+              alt="rede social instagram"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+            />
+          </div>
+        </a>
+        <a
+          class="c5"
+          href="/"
+        >
+          <div
+            style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 32px; height: 32px;"
+          >
+            <img
+              alt="rede social linkedin"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+            />
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+</div>
+`

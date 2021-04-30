@@ -1,0 +1,477 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header match snapshot 1`] = `
+.c1 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c8 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c10 {
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c0 {
+  background-color: #ffffff;
+  height: 8rem;
+  padding: 2rem 2.4rem;
+  width: 100%;
+}
+
+.c6 {
+  position: fixed;
+  top: 2.4rem;
+  right: 2.4rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  width: 3rem;
+  height: 3rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 2;
+}
+
+.c6:focus {
+  outline: none;
+}
+
+.c6 div {
+  width: 3rem;
+  height: 0.2rem;
+  background: #0d0c1d;
+  border-radius: 10px;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  position: relative;
+  -webkit-transform-origin: 1px;
+  -ms-transform-origin: 1px;
+  transform-origin: 1px;
+}
+
+.c6 div:first-child {
+  -webkit-transform: rotate(0);
+  -ms-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.c6 div:nth-child(2) {
+  opacity: 1;
+}
+
+.c6 div:nth-child(3) {
+  -webkit-transform: rotate(0);
+  -ms-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.c4 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c4:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+.c5 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 3.2rem;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+.c7 {
+  -webkit-animation: 0.4s ease-in-out 0.4s;
+  animation: 0.4s ease-in-out 0.4s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  border: 0;
+  background-color: #F2F2F2;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.c7:focus {
+  outline: none;
+}
+
+.c7 div {
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  margin-top: 6.4rem;
+}
+
+.c3 {
+  display: none;
+}
+
+.c14 {
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  outline: 0;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c11 {
+  border-radius: 2.4rem;
+  position: relative;
+  height: 4rem;
+  width: 24rem;
+}
+
+.c12 {
+  border: 1px solid #F2F2F2;
+  border-radius: 2.4rem;
+  color: #EE0E7D;
+  font-size: 1.6rem;
+  padding: 0.8rem 4.8rem 0.8rem 1.6rem;
+  outline: 0;
+  width: 100%;
+}
+
+.c12::-webkit-input-placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c12::-moz-placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c12:-ms-input-placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c12::placeholder {
+  color: #EE0E7D;
+  opacity: 1;
+}
+
+.c13 {
+  padding-right: 1.6rem;
+  position: absolute;
+  right: 0;
+  top: 0.8rem;
+}
+
+.c9 {
+  display: none;
+}
+
+@media (min-width:768px) {
+  .c6 {
+    display: none;
+  }
+}
+
+@media (min-width:768px) {
+  .c7 {
+    display: none;
+  }
+}
+
+@media (min-width:1024px) {
+  .c3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+}
+
+@media (min-width:768px) {
+  .c9 {
+    display: block;
+    width: 100%;
+  }
+}
+
+<section
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <div
+        style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+      >
+        <div
+          style="box-sizing: border-box; display: block; max-width: 100%;"
+        >
+          <img
+            alt=""
+            aria-hidden="true"
+            role="presentation"
+            src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTg0IiBoZWlnaHQ9IjQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+            style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+          />
+        </div>
+        <img
+          alt="Jüssi logo da empresa"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        />
+      </div>
+      <nav
+        class="c3"
+      >
+        <a
+          class="c4"
+          href="https://www.google.com"
+        >
+          Nossas Soluções
+        </a>
+        <a
+          class="c5"
+          href="https://www.google.com"
+        >
+          Conheça a Jüssi
+        </a>
+      </nav>
+    </div>
+    <button
+      class="c6"
+    >
+      <div />
+      <div />
+      <div />
+    </button>
+    <div
+      class="c7"
+    >
+      <div
+        class="c8"
+      >
+        <a
+          class="c5"
+          href="https://jussi.com.br/services.html"
+        >
+          Nossas Soluções
+        </a>
+        <a
+          class="c5"
+          href="https://jussi.com.br/about.html"
+        >
+          Conheça a Jüssi
+        </a>
+        <a
+          class="c5"
+          href="/"
+        >
+          Login
+        </a>
+      </div>
+    </div>
+    <div
+      class="c9"
+    >
+      <div
+        class="c10"
+      >
+        <div
+          class="c11"
+        >
+          <input
+            class="c12"
+            placeholder="Buscar"
+            type="text"
+            value=""
+          />
+          <div
+            class="c13"
+          >
+            <button
+              class="c14"
+            >
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                    style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+                  />
+                </div>
+                <img
+                  alt="ícone de pesquisa"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+            </button>
+          </div>
+        </div>
+        <a
+          class="c5"
+          href="https://www.google.com"
+        >
+          Login
+        </a>
+        <button
+          class="c14"
+        >
+          <div
+            style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+          >
+            <div
+              style="box-sizing: border-box; display: block; max-width: 100%;"
+            >
+              <img
+                alt=""
+                aria-hidden="true"
+                role="presentation"
+                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+              />
+            </div>
+            <img
+              alt="ícone verificação de itens no carrinho"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+            />
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+`

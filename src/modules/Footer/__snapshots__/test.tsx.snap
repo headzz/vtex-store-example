@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer match snapshot 1`] = `
+.c3 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c0 {
+  background-color: #000000;
+  padding: 2.4rem 0rem;
+  width: 100%;
+}
+
+.c2 {
+  background-color: transparent;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #EE0E7D;
+  -webkit-text-decoration-color: #EE0E7D;
+  text-decoration-color: #EE0E7D;
+}
+
+.c1 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.c1 div:nth-child(2) {
+  width: 100%;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    padding: 2.4rem 20.8rem;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+
+  .c1 div:nth-child(2) {
+    width: 13rem;
+  }
+}
+
+<section
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <a
+      class="c2"
+      href="/"
+    >
+      <div
+        style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+      >
+        <div
+          style="box-sizing: border-box; display: block; max-width: 100%;"
+        >
+          <img
+            alt=""
+            aria-hidden="true"
+            role="presentation"
+            src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQyIiBoZWlnaHQ9IjI3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg=="
+            style="max-width: 100%; display: block; margin: 0px; padding: 0px;"
+          />
+        </div>
+        <img
+          alt="logo do grupo wpp"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        />
+      </div>
+    </a>
+    <div
+      class="c3"
+    >
+      <a
+        class="c2"
+        href="/"
+      >
+        <div
+          style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 32px; height: 32px;"
+        >
+          <img
+            alt="rede social facebook"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </a>
+      <a
+        class="c2"
+        href="/"
+      >
+        <div
+          style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 32px; height: 32px;"
+        >
+          <img
+            alt="rede social instagram"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </a>
+      <a
+        class="c2"
+        href="/"
+      >
+        <div
+          style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 32px; height: 32px;"
+        >
+          <img
+            alt="rede social linkedin"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+`

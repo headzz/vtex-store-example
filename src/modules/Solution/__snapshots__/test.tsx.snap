@@ -1,0 +1,492 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Solution match snapshot 1`] = `
+.c0 {
+  background-color: #ffffff;
+  padding: 5.6rem 0;
+  width: 100%;
+}
+
+.c7 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  margin: inherit;
+  width: 100%;
+}
+
+.c13 {
+  background-color: #03FFA5;
+  border-radius: 6px;
+  border: none;
+  color: #000000;
+  font-size: 1.6rem;
+  margin-left: 0;
+  outline: 0;
+  padding: 1.2rem 2.4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2 {
+  color: #03FFA5;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.c3 {
+  color: #000000;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.c8 {
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+.c9 {
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.c10 {
+  color: #EE0E7D;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.c11 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.c5 {
+  border: 1px solid #F2F2F2;
+  padding: 1.6rem;
+  width: 24rem;
+}
+
+.c5 ul {
+  margin: 1.6rem;
+}
+
+.c5 a {
+  width: 100%;
+}
+
+.c5 p:nth-child(2) {
+  margin-bottom: 1.6rem;
+}
+
+.c6 {
+  background-color: #F2F2F2;
+  border-radius: 50%;
+  height: 10rem;
+  margin-bottom: 5.2rem;
+  width: 10rem;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c12 a {
+  text-align: center;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 div {
+  margin-bottom: 1.6rem;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 2rem;
+  margin-bottom: 2.4rem;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    padding: 5.6rem 20.8rem;
+  }
+}
+
+@media (min-width:768px) {
+  .c4 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    padding-left: 0;
+  }
+}
+
+<section
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <p
+      class="c2"
+      color="#03FFA5"
+      title="small"
+    >
+      //
+    </p>
+    <p
+      class="c3"
+      color="#000000"
+      title="small"
+    >
+      NOSSAS SOLUÇÕES
+    </p>
+  </div>
+  <div
+    class="c4"
+  >
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          <p
+            class="c8"
+            color=""
+            title="small"
+          >
+            P1
+          </p>
+        </div>
+      </div>
+      <p
+        class="c9"
+        color=""
+        title=""
+      >
+        Nome do Produto 1
+      </p>
+      <p
+        class="c10"
+        color="#EE0E7D"
+        title=""
+      >
+        Descrição do Produto 1
+      </p>
+      <div>
+        <ul>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 1
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 2
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 3
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="c12"
+      >
+        <a
+          class="c13"
+          href="/"
+        >
+          Ver solução
+        </a>
+      </div>
+    </div>
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          <p
+            class="c8"
+            color=""
+            title="small"
+          >
+            P1
+          </p>
+        </div>
+      </div>
+      <p
+        class="c9"
+        color=""
+        title=""
+      >
+        Nome do Produto 2
+      </p>
+      <p
+        class="c10"
+        color="#EE0E7D"
+        title=""
+      >
+        Descrição do Produto 2
+      </p>
+      <div>
+        <ul>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 1
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 2
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 3
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="c12"
+      >
+        <a
+          class="c13"
+          href="/"
+        >
+          Ver solução
+        </a>
+      </div>
+    </div>
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          <p
+            class="c8"
+            color=""
+            title="small"
+          >
+            P1
+          </p>
+        </div>
+      </div>
+      <p
+        class="c9"
+        color=""
+        title=""
+      >
+        Nome do Produto 3
+      </p>
+      <p
+        class="c10"
+        color="#EE0E7D"
+        title=""
+      >
+        Descrição do Produto 3
+      </p>
+      <div>
+        <ul>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 1
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 2
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 3
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="c12"
+      >
+        <a
+          class="c13"
+          href="/"
+        >
+          Ver solução
+        </a>
+      </div>
+    </div>
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          <p
+            class="c8"
+            color=""
+            title="small"
+          >
+            P1
+          </p>
+        </div>
+      </div>
+      <p
+        class="c9"
+        color=""
+        title=""
+      >
+        Nome do Produto 4
+      </p>
+      <p
+        class="c10"
+        color="#EE0E7D"
+        title=""
+      >
+        Descrição do Produto 4
+      </p>
+      <div>
+        <ul>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 1
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 2
+            </p>
+          </li>
+          <li>
+            <p
+              class="c11"
+              color=""
+              title=""
+            >
+              feature 3
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="c12"
+      >
+        <a
+          class="c13"
+          href="/"
+        >
+          Ver solução
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+`
