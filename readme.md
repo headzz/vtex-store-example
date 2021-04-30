@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Store Example
 
-First, run the development server:
+Desafio baseado em implementar um layout de desktop que foi com seu layout elaborado no Figma.
+
+## Como rodar o projeto
+
+1. Crie uma pasta no seu local de trabalho.
+
+2. Faça o clone do repositório:
 
 ```bash
-npm run dev
-# or
-yarn dev
+
+git clone https://github.com/headzz/vtex-store-example.git
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Acesse a pasta via terminal:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+cd vtex-store-example
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
 
-## Learn More
+4. Instale as dependências:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+yarn install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
 
-## Deploy on Vercel
+5. Com as dependências instaladas agora basta rodar o comando:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+yarn run dev
+
+```
+
+Após rodar o comando acima basta acessar em seu browser:
+
+```bash
+
+http://localhost:3000
+
+```
+
+A Aplicação também está disponível na versão online em:
+[https://store-example-test.herokuapp.com/](https://store-example-test.herokuapp.com/)
+
+# Tarefas automatizadas
+
+Veja abaixo todas as tarefas automatizada utilizando yarn.
+
+| Tarefas           | Descrição                                                                                                       |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| **yarn run dev**   | Responsável por inicializar o servidor na porta **3000**.                                                       |
+| **yarn run build** | Responsável por fazer o **next.js** compilar a aplicação.                                                       |
+| **yarn run prod**  | Responsável por para testar a aplicação compilada pelo **next**, também inicializa o servidor na porta **3000** |
+| **yarn start**     | Responsável por rodar a projeto após ele ter sido compilado pelo **next.js**.                                   |
+| **yarn run test**  | Responsável por verificar os testes automatizados.                                                          |
+
+## Considerações Finais
+Ainda é necessário realizar alguns ajustes.
+A configuração do husky e dos linters em conjunto com Typescript trouxeram mais segurança em relação a alguns tipos de falhas durante o desenvolvimento.
+Alguns testes poderiam ter sido mais elaborados com o devido tempo.
+
+Testes E2E com Cypress são uma melhoria futura.
+Ainda existem melhorias que podem ser realizadas no layout responsivo.
+
+A barra de busca funciona parcialmente. Gostaria de ter criado uma tela com os resultados possíveis existentes nela. Seria necessário melhorar a validação deste campo de busca também.
