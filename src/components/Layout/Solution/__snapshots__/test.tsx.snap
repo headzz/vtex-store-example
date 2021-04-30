@@ -9,6 +9,12 @@ exports[
   width: 100%;
 }
 
+@media (min-width:768px) {
+  .c0 {
+    padding: 5.6rem 20.8rem;
+  }
+}
+
 <section
   class="c0"
 />

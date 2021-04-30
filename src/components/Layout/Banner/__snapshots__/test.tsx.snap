@@ -7,6 +7,16 @@ exports[`<Banner /> should render component that wraps banner on page 1`] = `
   width: 100%;
 }
 
+.c0 #banner-image {
+  display: none;
+}
+
+@media (min-width:768px) {
+  .c0 #banner-image {
+    display: block;
+  }
+}
+
 <section
   class="c0"
 />

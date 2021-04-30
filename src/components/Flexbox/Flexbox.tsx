@@ -4,6 +4,7 @@ import React from 'react'
 type Props = {
   alignContent: 'center' | 'right' | 'spaceBetween' | 'flexStart'
   column?: boolean
+  margin?: string
 }
 
 /**
@@ -17,9 +18,14 @@ type Props = {
  *
  */
 
-const Flexbox: React.FC<Props> = ({ children, column, alignContent }) => {
+const Flexbox: React.FC<Props> = ({
+  alignContent,
+  children,
+  column,
+  margin
+}) => {
   return (
-    <FlexStyled alignContent={alignContent} column={column}>
+    <FlexStyled alignContent={alignContent} column={column} margin={margin}>
       {children}
     </FlexStyled>
   )

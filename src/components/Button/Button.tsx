@@ -26,7 +26,7 @@ type Props = {
  * @param {React.MouseEvent<HTMLButtonElement>} clickHandler Creates on click action.
  *
  */
-export const Button: React.FC<Props> = ({
+const Button: React.FC<Props> = ({
   children,
   clickHandler,
   color,
@@ -34,8 +34,8 @@ export const Button: React.FC<Props> = ({
   round
 }) => (
   <>
-    {!icon && (
-      <ButtonStyled round={round} onClick={clickHandler}>
+    {icon === '' && (
+      <ButtonStyled icon={icon} round={round} onClick={clickHandler}>
         <Text color={color} title="" text="">
           {children}
         </Text>
@@ -43,9 +43,10 @@ export const Button: React.FC<Props> = ({
     )}
 
     {icon !== '' && (
-      <ButtonStyled round={round} onClick={clickHandler}>
+      <ButtonStyled icon={icon} round={round} onClick={clickHandler}>
         {availableIcons[icon]}
       </ButtonStyled>
     )}
   </>
 )
+export default Button

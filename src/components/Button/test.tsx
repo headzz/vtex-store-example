@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { colors } from 'configuration'
-import { Button } from './Button'
+import Button from './Button'
 describe('Button', () => {
   it('should render component button icon', () => {
     const handleClick = jest.fn()
