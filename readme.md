@@ -70,4 +70,4 @@ Alguns testes poderiam ter sido mais elaborados com o devido tempo.
 Testes E2E com Cypress são uma melhoria futura.
 Ainda existem melhorias que podem ser realizadas no layout responsivo.
 
-A barra de busca funciona parcialmente. Gostaria de ter criado uma tela com os resultados possíveis existentes nela. Seria necessário melhorar a validação deste campo de busca também.
+A barra de busca funciona parcialmente. Pokemons da primeira geração são o resultado esperado. Gostaria de ter criado uma tela com os resultados possíveis existentes nela. Seria necessário melhorar a validação deste campo de busca também.
