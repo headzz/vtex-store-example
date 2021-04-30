@@ -27,3 +27,9 @@ export const ButtonContainer = styled.div`
   right: 0;
   top: 0.8rem;
 `
+export const Results = styled.div`
+  background-color: ${colors.WHITE};
+  position: absolute;
+  top: 100%;
+  z-index: 3;
+`
